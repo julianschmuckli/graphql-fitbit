@@ -1,0 +1,21 @@
+{
+  "name": "graphql-fitbit",
+  "version": "1.0.6",
+  "description": "This library gives you full functionality to handle with GraphQL endpoints on the Fitbit OS SDK.",
+  "main": "companion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fitbitos",
+    "graphql",
+    "fetch",
+    "fitbitdev"
+  ],
+  "author": "Julian Schmuckli <julian@schmuckli.net> (https://schmuckli.net/)",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/julianschmuckli/graphql-fitbit"
+  },
+  "license": "MIT"
+}
